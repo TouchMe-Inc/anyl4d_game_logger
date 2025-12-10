@@ -1,0 +1,375 @@
+[OTHER] L 12/12/2025 - 12:29:42: "TouchMe<6><STEAM_1:1:224567397><>" connected, address "192.168.0.102:27005"
+
+[TRIGGERED] L 12/12/2025 - 12:29:42: World triggered "Round_Start"
+
+[OTHER] L 12/12/2025 - 12:29:42: CDirector::RunScript, c5m1_nothreat, level: 2
+
+[OTHER] L 12/12/2025 - 12:29:43: Loading map "c5m1_waterfront"
+
+[OTHER] L 12/12/2025 - 12:29:54: FinishClientPutInServer TouchMe(6): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:29:54: "TouchMe<6><STEAM_1:1:224567397><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:29:57: "TouchMe<6><STEAM_1:1:224567397><Unassigned>" joined team "Survivor"
+
+[OTHER] L 12/12/2025 - 12:29:57: SetModelFromClass: Survivor TouchMe changed model from  to models/survivors/survivor_gambler.mdl via SetModelFromClass
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor TouchMe chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: TouchMe spawned as a Gambler
+
+[OTHER] L 12/12/2025 - 12:29:57: "TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 801.82 701.38 -419.97; setang 0.00 300.00 0.00><Area 53865>" spawned
+
+[OTHER] L 12/12/2025 - 12:29:57: "Rochelle<7><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:29:57: FinishClientPutInServer (7): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:29:57: "Rochelle<7><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:29:57: "Rochelle<7><BOT><Unassigned>" joined team "Survivor"
+
+[OTHER] L 12/12/2025 - 12:29:57: SetModelFromClass: Survivor Rochelle changed model from  to models/survivors/survivor_producer.mdl via SetModelFromClass
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: Rochelle spawned as a Producer
+
+[OTHER] L 12/12/2025 - 12:29:57: "Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 869.68 685.87 -419.97; setang 0.00 296.00 0.00><Area 53865>" spawned
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) Survivor Rochelle changed model from models/survivors/survivor_producer.mdl to models/survivors/survivor_producer.mdl via HandleCommand_JoinTeam
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor Rochelle chose character Producer(1) from model models/survivors/survivor_producer.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: "Coach<8><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:29:57: FinishClientPutInServer (8): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:29:57: "Coach<8><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:29:57: "Coach<8><BOT><Unassigned>" joined team "Survivor"
+
+[OTHER] L 12/12/2025 - 12:29:57: SetModelFromClass: Survivor Coach changed model from  to models/survivors/survivor_coach.mdl via SetModelFromClass
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: Coach spawned as a Coach
+
+[OTHER] L 12/12/2025 - 12:29:57: "Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 801.82 701.38 -419.00; setang 0.00 300.00 0.00><Area 53865>" spawned
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) Survivor Coach changed model from models/survivors/survivor_coach.mdl to models/survivors/survivor_coach.mdl via HandleCommand_JoinTeam
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor Coach chose character Coach(2) from model models/survivors/survivor_coach.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: "Ellis<9><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:29:57: FinishClientPutInServer (9): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:29:57: "Ellis<9><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:29:57: "Ellis<9><BOT><Unassigned>" joined team "Survivor"
+
+[OTHER] L 12/12/2025 - 12:29:57: SetModelFromClass: Survivor Ellis changed model from  to models/survivors/survivor_mechanic.mdl via SetModelFromClass
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: Ellis spawned as a Mechanic
+
+[OTHER] L 12/12/2025 - 12:29:57: "Ellis<9><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 869.68 685.87 -419.00; setang 0.00 296.00 0.00><Area 53865>" spawned
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) Survivor Ellis changed model from models/survivors/survivor_mechanic.mdl to models/survivors/survivor_mechanic.mdl via HandleCommand_JoinTeam
+
+[OTHER] L 12/12/2025 - 12:29:57: (SKIN) SetCharacter: Survivor Ellis chose character Mechanic(3) from model models/survivors/survivor_mechanic.mdl
+
+[OTHER] L 12/12/2025 - 12:29:57: ChangeFinaleStage: 18
+
+[OTHER] L 12/12/2025 - 12:30:19: Allowing spawning - "TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 603.34 -20.82 -313.97; setang 3.59 -149.87 0.00><Area 52944>" left safe area
+
+[DEATH] L 12/12/2025 - 12:30:20: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 343.60 -7.98 -313.97; setang 2.69 132.63 0.00><Area 54026>" killed "infected<463><><Infected><infected><DEAD><-8><setpos_exact -101.36 467.35 -375.97; setang 0.00 301.16 0.00><Area 52044>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:21: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 189.84 84.38 -313.97; setang 1.69 117.09 0.00><Area 54258>" killed "infected<459><><Infected><infected><DEAD><-22><setpos_exact 75.46 303.48 -367.97; setang -0.00 -0.78 0.00><Area 87406>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:22: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 167.54 116.72 -313.97; setang 1.30 160.82 0.00><Area 52894>" killed "infected<460><><Infected><infected><DEAD><0><setpos_exact -107.25 202.30 -375.97; setang 0.00 419.50 0.00><Area 54009>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:23: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 167.44 116.91 -313.97; setang 3.29 169.88 0.00><Area 52894>" killed "infected<462><><Infected><infected><DEAD><-1><setpos_exact -96.40 159.06 -375.97; setang 0.00 351.40 0.00><Area 54009>" with "shotgun_chrome"
+
+[OTHER] L 12/12/2025 - 12:30:24: "Hunter<10><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:30:24: FinishClientPutInServer (10): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:30:24: "Hunter<10><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:30:24: "Hunter<10><BOT><Unassigned>" joined team "Infected"
+
+[OTHER] L 12/12/2025 - 12:30:24: Hunter spawned as a HUNTER
+
+[OTHER] L 12/12/2025 - 12:30:24: "Hunter<10><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -587.50 210.00 -309.97; setang 0.00 0.00 0.00><Area 52048>" spawned
+
+[OTHER] L 12/12/2025 - 12:30:24: "(1)Hunter<11><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:30:24: FinishClientPutInServer (11): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:30:24: "(1)Hunter<11><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:30:24: "(1)Hunter<11><BOT><Unassigned>" joined team "Infected"
+
+[OTHER] L 12/12/2025 - 12:30:24: (1)Hunter spawned as a HUNTER
+
+[OTHER] L 12/12/2025 - 12:30:24: "(1)Hunter<11><BOT><Infected><HUNTER><ALIVE><250+0><setpos_exact -700.00 -185.44 -303.97; setang 0.00 0.00 0.00><Area 38339>" spawned
+
+[DEATH] L 12/12/2025 - 12:30:24: (DEATH)"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 613.03 -28.10 -313.97; setang 1.10 167.81 0.00><Area 52944>" killed "infected<461><><Infected><infected><DEAD><-11><setpos_exact -259.51 161.07 -371.97; setang 0.00 238.61 0.00><Area 52804>" with "smg"
+
+[DEATH] L 12/12/2025 - 12:30:24: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 598.63 -21.06 -313.97; setang 2.63 200.80 0.00><Area 52944>" killed "infected<474><><Infected><infected><DEAD><-16><setpos_exact 162.41 -182.61 -375.97; setang 0.00 92.39 0.00><Area 54257>" with "shotgun_chrome"
+
+[TRIGGERED] L 12/12/2025 - 12:30:25: "TouchMe<6><STEAM_1:1:224567397><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:25: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 149.81 118.59 -313.97; setang 8.67 141.39 0.00><Area 52894>" killed "infected<469><><Infected><infected><DEAD><-57><setpos_exact 101.89 152.19 -375.97; setang 0.00 324.07 0.00><Area 54022>" with "shotgun_chrome" (headshot)
+
+[OTHER] L 12/12/2025 - 12:30:26: "Smoker<12><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:30:26: FinishClientPutInServer (12): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:30:26: "Smoker<12><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:30:26: "Smoker<12><BOT><Unassigned>" joined team "Infected"
+
+[OTHER] L 12/12/2025 - 12:30:26: Smoker spawned as a SMOKER
+
+[OTHER] L 12/12/2025 - 12:30:26: "Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1200.00 -212.50 -313.97; setang 0.00 0.00 0.00><Area 36833>" spawned
+
+[OTHER] L 12/12/2025 - 12:30:26: "(1)Smoker<13><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:30:26: FinishClientPutInServer (13): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:30:26: "(1)Smoker<13><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:30:26: "(1)Smoker<13><BOT><Unassigned>" joined team "Infected"
+
+[OTHER] L 12/12/2025 - 12:30:26: (1)Smoker spawned as a SMOKER
+
+[OTHER] L 12/12/2025 - 12:30:26: "(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1092.50 192.50 -80.00; setang 0.00 0.00 0.00><Area 73384>" spawned
+
+[DEATH] L 12/12/2025 - 12:30:27: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 32.52 171.04 -313.97; setang 3.49 155.74 0.00><Area 54022>" killed "infected<471><><Infected><infected><DEAD><-12><setpos_exact -343.48 365.12 -371.97; setang 0.00 332.94 0.00><Area 42600>" with "shotgun_chrome"
+
+[TRIGGERED] L 12/12/2025 - 12:30:28: "Rochelle<7><BOT><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:28: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 154.45 135.43 -313.97; setang 0.73 264.50 0.00><Area 52908>" killed "infected<475><><Infected><infected><DEAD><-2><setpos_exact 124.00 -171.57 -375.97; setang 0.00 242.01 0.00><Area 54257>" with "shotgun_chrome" (headshot)
+
+[DEATH] L 12/12/2025 - 12:30:28: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 177.87 171.19 -305.97; setang 4.89 160.87 0.00><Area 52908>" killed "Hunter<10><BOT><Infected><HUNTER><DEAD><1+0><setpos -379.97 364.62 -371.97; setang 347.77 340.88 0.00><Area 42600>" with "smg"
+
+[TRIGGERED] L 12/12/2025 - 12:30:28: "Hunter<10><BOT><Infected>" triggered "weaponstats" (weapon "hunter_claw") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:28: "Hunter<10><BOT><Infected>" triggered "weaponstats_hitgroup" (weapon "hunter_claw") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[DEATH] L 12/12/2025 - 12:30:28: (DEATH)"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 133.43 93.17 -313.97; setang 2.55 105.99 0.00><Area 54258>" killed "infected<467><><Infected><infected><DEAD><0><setpos_exact -11.39 587.23 -375.97; setang 0.00 298.08 0.00><Area 38970>" with "smg"
+
+[TRIGGERED] L 12/12/2025 - 12:30:28: "Ellis<9><BOT><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:28: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><100+0><setpos_exact 177.87 171.19 -305.97; setang 2.81 181.18 0.00><Area 52908>" killed "infected<480><><Infected><infected><DEAD><-2><setpos_exact -436.56 158.51 -371.97; setang 0.00 -38.45 0.00><Area 48097>" with "smg" (headshot)
+
+[DEATH] L 12/12/2025 - 12:30:29: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 10.44 188.48 -313.97; setang 1.89 78.64 0.00><Area 54009>" killed "infected<466><><Infected><infected><DEAD><-11><setpos_exact 25.16 282.13 -367.97; setang 0.00 260.06 0.00><Area 37554>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:29: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact 10.44 188.48 -313.97; setang 1.89 78.64 0.00><Area 54009>" killed "infected<477><><Infected><infected><DEAD><-11><setpos_exact 114.12 762.86 -368.00; setang 0.00 296.99 0.00><Area 47889>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:31: (DEATH)"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 133.43 93.17 -313.97; setang 2.67 94.21 0.00><Area 54258>" killed "infected<465><><Infected><infected><DEAD><-7><setpos_exact 109.20 536.54 -367.97; setang 0.00 287.16 0.00><Area 37531>" with "smg"
+
+[OTHER] L 12/12/2025 - 12:30:31: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -648.03 121.99 -313.97; setang 1.18 4.43 0.00><Area 42599>". Victim:"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 133.43 93.17 -313.97; setang 3.03 92.99 0.00><Area 54258>".
+
+[TRIGGERED] L 12/12/2025 - 12:30:31: "Coach<8><BOT><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:31: (DEATH)"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact 133.43 93.17 -313.97; setang 2.31 92.82 0.00><Area 54258>" killed "infected<476><><Infected><infected><DEAD><-9><setpos_exact 87.97 958.13 -375.97; setang 0.00 -15.85 0.00><Area 47424>" with "smg" (headshot)
+
+[DEATH] L 12/12/2025 - 12:30:32: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact 40.95 168.28 -313.97; setang 2.75 265.31 0.00><Area 54022>" killed "infected<481><><Infected><infected><DEAD><-10><setpos_exact 6.44 -308.28 -375.97; setang 0.00 81.68 0.00><Area 37529>" with "shotgun_chrome"
+
+[OTHER] L 12/12/2025 - 12:30:32: "(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -1473.81 -80.24 -304.86; setang 0.71 16.97 0.00><Area 84408>" landed
+
+[DEATH] L 12/12/2025 - 12:30:32: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -260.72 323.93 -309.97; setang 4.68 147.87 0.00><Area 42597>" killed "infected<479><><Infected><infected><DEAD><-3><setpos_exact -427.25 430.94 -371.32; setang 0.00 -2.71 0.00><Area 48093>" with "shotgun_chrome"
+
+[OTHER] L 12/12/2025 - 12:30:33: (TONGUE) Tongue targeting new victim.  Smoker:"Smoker<12><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -487.29 355.37 -309.67; setang 4.09 8.69 0.00><Area 48093>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -315.18 365.98 -309.97; setang 8.67 173.47 0.00><Area 42600>".
+
+[DEATH] L 12/12/2025 - 12:30:34: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -358.54 387.11 -309.97; setang -8.27 174.87 0.00><Area 42600>" killed "Smoker<12><BOT><Infected><SMOKER><DEAD><1+0><setpos -454.15 394.65 -371.47; setang 307.83 355.49 0.00><Area 48093>" with "shotgun_chrome"
+
+[OTHER] L 12/12/2025 - 12:30:35: "Hunter<10><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+
+[DEATH] L 12/12/2025 - 12:30:35: (DEATH)"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -286.48 259.49 -309.97; setang 6.93 51.92 0.00><Area 42597>" killed "infected<464><><Infected><infected><DEAD><-5><setpos_exact -154.40 428.09 -375.97; setang 0.00 212.54 0.00><Area 42651>" with "smg"
+
+[TRIGGERED] L 12/12/2025 - 12:30:35: "Coach<8><BOT><Survivor><setpos_exact -286.48 259.49 -371.96>" triggered "protect_teammate"
+
+[DEATH] L 12/12/2025 - 12:30:35: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -366.63 405.15 -309.97; setang 8.37 -159.83 0.00><Area 42600>" killed "infected<311><><Infected><infected><DEAD><-8><setpos_exact -446.28 380.22 -371.97; setang 0.00 56.69 0.00><Area 48093>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:36: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -243.28 302.14 -309.97; setang 2.49 296.08 0.00><Area 42610>" killed "infected<452><><Infected><infected><DEAD><0><setpos_exact 23.80 -234.53 -375.97; setang 0.00 109.59 0.00><Area 54023>" with "dual_pistols"
+
+[TRIGGERED] L 12/12/2025 - 12:30:37: "TouchMe<6><STEAM_1:1:224567397><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:37: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -379.97 401.92 -309.97; setang 9.46 -143.99 0.00><Area 42638>" killed "infected<478><><Infected><infected><DEAD><-100><setpos_exact -409.00 375.57 -371.97; setang 0.00 341.81 0.00><Area 42638>" with "shotgun_chrome" (headshot)
+
+[TRIGGERED] L 12/12/2025 - 12:30:37: "TouchMe<6><STEAM_1:1:224567397><Survivor><setpos_exact -379.97 401.91 -371.96>" triggered "protect_teammate"
+
+[DEATH] L 12/12/2025 - 12:30:37: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -379.97 401.92 -309.97; setang 9.46 -143.99 0.00><Area 42638>" killed "infected<453><><Infected><infected><DEAD><-5><setpos_exact -507.23 326.47 -371.97; setang 0.00 38.89 0.00><Area 48093>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:39: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><99+0><setpos_exact -186.46 407.64 -308.97; setang 1.25 188.24 0.00><Area 42657>" killed "infected<484><><Infected><infected><DEAD><-2><setpos_exact -569.02 353.12 -360.16; setang -0.00 17.14 0.00><Area 48093>" with "smg"
+
+[TRIGGERED] L 12/12/2025 - 12:30:39: "Ellis<9><BOT><Survivor><setpos_exact -186.45 407.64 -370.96>" triggered "protect_teammate"
+
+[DEATH] L 12/12/2025 - 12:30:39: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -379.97 405.82 -327.96; setang 2.09 -130.75 0.00><Area 42600>" killed "infected<317><><Infected><infected><DEAD><-2><setpos_exact -540.63 240.65 -371.97; setang 0.00 57.62 0.00><Area 48093>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:39: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -379.97 405.82 -327.96; setang 2.09 -130.75 0.00><Area 42600>" killed "infected<459><><Infected><infected><DEAD><-9><setpos_exact -800.15 -54.83 -377.42; setang 0.00 263.40 0.00><Area 38363>" with "shotgun_chrome"
+
+[OTHER] L 12/12/2025 - 12:30:41: "Smoker<12><BOT><Infected>" disconnected (reason "Kicked by Console : death anim finished")
+
+[DEATH] L 12/12/2025 - 12:30:41: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><99+0><setpos_exact -186.46 407.64 -308.97; setang 3.52 184.44 0.00><Area 42657>" killed "infected<430><><Infected><infected><DEAD><-9><setpos_exact -836.52 344.50 -377.15; setang 0.00 14.58 0.00><Area 38589>" with "smg"
+
+[TRIGGERED] L 12/12/2025 - 12:30:41: "TouchMe<6><STEAM_1:1:224567397><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:41: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -403.05 386.33 -309.97; setang 5.08 -128.75 0.00><Area 42638>" killed "infected<463><><Infected><infected><DEAD><-5><setpos_exact -506.09 269.65 -371.97; setang -0.00 63.63 0.00><Area 48093>" with "shotgun_chrome" (headshot)
+
+[OTHER] L 12/12/2025 - 12:30:41: (TONGUE) Tongue targeting new victim.  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -734.50 -0.16 -313.97; setang 0.92 50.07 0.00><Area 38485>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -403.05 386.33 -309.97; setang 9.26 -133.54 0.00><Area 42638>".
+
+[DEATH] L 12/12/2025 - 12:30:42: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -322.04 387.46 -309.97; setang 4.09 192.24 0.00><Area 42600>" killed "infected<461><><Infected><infected><DEAD><-1><setpos_exact -585.32 326.16 -370.97; setang 0.00 20.63 0.00><Area 42595>" with "shotgun_chrome"
+
+[OTHER] L 12/12/2025 - 12:30:43: (TONGUE) Tongue launching towards victim.  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -746.87 40.20 -312.23; setang 1.23 47.07 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -426.67 383.61 -309.97; setang 2.69 -139.41 0.00><Area 42638>".
+
+[OTHER] L 12/12/2025 - 12:30:43: (TONGUE) Tongue grab starting.  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><250+0><setpos_exact -746.87 40.20 -312.23; setang 1.42 40.95 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -444.51 318.50 -309.97; setang 0.50 -136.13 0.00><Area 48093>".
+
+[OTHER] L 12/12/2025 - 12:30:44: (TONGUE) Tongue took 25.681528 damage (was 100.000000/100.000000).  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><176+0><setpos_exact -746.87 40.20 -312.23; setang 2.19 42.62 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -534.64 235.55 -309.97; setang 5.88 -138.72 0.00><Area 48093>".
+
+[OTHER] L 12/12/2025 - 12:30:44: (TONGUE) Tongue took 25.965147 damage (was 74.318474/100.000000).  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><176+0><setpos_exact -746.87 40.20 -312.23; setang 2.19 42.62 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -534.64 235.55 -309.97; setang 5.88 -138.72 0.00><Area 48093>".
+
+[OTHER] L 12/12/2025 - 12:30:44: (TONGUE) Tongue took 26.056334 damage (was 48.353325/100.000000).  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><176+0><setpos_exact -746.87 40.20 -312.23; setang 2.19 42.62 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><100+0><setpos_exact -534.64 235.55 -309.97; setang 5.88 -138.72 0.00><Area 48093>".
+
+[DEATH] L 12/12/2025 - 12:30:45: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -537.49 271.83 -309.97; setang 6.64 205.06 0.00><Area 48093>" killed "infected<454><><Infected><infected><DEAD><-25><setpos_exact -604.32 250.63 -360.16; setang 0.00 188.29 0.00><Area 42595>" with "shotgun_chrome"
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "TouchMe<6><UNKNOWN><Survivor>" triggered "weaponstats" (weapon "shotgun_chrome") (shots "18") (hits "17") (kills "1") (headshots "0") (tks "0") (damage "486") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "TouchMe<6><UNKNOWN><Survivor>" triggered "weaponstats_hitgroup" (weapon "shotgun_chrome") (head "7") (chest "2") (stomach "4") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "1")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Rochelle<7><BOT><Survivor>" triggered "weaponstats" (weapon "pistol") (shots "4") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "50") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Rochelle<7><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "pistol") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Rochelle<7><BOT><Survivor>" triggered "weaponstats" (weapon "shotgun_chrome") (shots "10") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Rochelle<7><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "shotgun_chrome") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Coach<8><BOT><Survivor>" triggered "weaponstats" (weapon "smg") (shots "53") (hits "17") (kills "0") (headshots "0") (tks "0") (damage "262") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Coach<8><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "smg") (head "1") (chest "2") (stomach "4") (leftarm "2") (rightarm "3") (leftleg "2") (rightleg "3")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Ellis<9><BOT><Survivor>" triggered "weaponstats" (weapon "smg") (shots "34") (hits "16") (kills "1") (headshots "0") (tks "0") (damage "241") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "Ellis<9><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "smg") (head "1") (chest "2") (stomach "3") (leftarm "2") (rightarm "2") (leftleg "4") (rightleg "2")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "(1)Hunter<11><BOT><Infected>" triggered "weaponstats" (weapon "hunter_claw") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "(1)Hunter<11><BOT><Infected>" triggered "weaponstats_hitgroup" (weapon "hunter_claw") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "(1)Smoker<13><BOT><Infected>" triggered "weaponstats" (weapon "smoker_claw") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "3") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:45: "(1)Smoker<13><BOT><Infected>" triggered "weaponstats_hitgroup" (weapon "smoker_claw") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[OTHER] L 12/12/2025 - 12:30:46: (TONGUE) Tongue choke starting.  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><176+0><setpos_exact -746.87 40.20 -312.23; setang 2.19 42.62 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><94+0><setpos_exact -714.84 68.54 -313.97; setang 25.60 -55.24 0.00><Area 42598>".
+
+[OTHER] L 12/12/2025 - 12:30:47: (TONGUE) Tongue took 29.982830 damage (was 22.296991/100.000000).  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><154+0><setpos_exact -746.87 40.20 -312.23; setang 41.37 16.68 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><94+0><setpos_exact -714.84 40.55 -335.97; setang 29.88 -39.30 0.00><Area 38486>".
+
+[OTHER] L 12/12/2025 - 12:30:47: (TONGUE) Tongue letting go because of damage.  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><154+0><setpos_exact -746.87 40.20 -312.23; setang 41.37 16.68 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><94+0><setpos_exact -714.84 40.55 -335.97; setang 29.88 -39.30 0.00><Area 38486>".
+
+[OTHER] L 12/12/2025 - 12:30:47: (TONGUE) Tongue choke ending.  Smoker:"(1)Smoker<13><BOT><Infected><SMOKER><ALIVE><154+0><setpos_exact -746.87 40.20 -312.23; setang 41.37 16.68 0.00><Area 38486>". Victim:"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><94+0><setpos_exact -714.84 40.55 -335.97; setang 29.88 -39.30 0.00><Area 38486>".
+
+[TRIGGERED] L 12/12/2025 - 12:30:47: "Coach<8><BOT><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:47: (DEATH)"Coach<8><BOT><Survivor><Coach><ALIVE><100+0><setpos_exact -490.66 301.59 -309.97; setang 0.57 224.91 0.00><Area 48093>" killed "(1)Smoker<13><BOT><Infected><SMOKER><DEAD><1+0><setpos -758.82 39.52 -374.23; setang 341.39 44.34 0.00><Area 81340>" with "smg" (headshot)
+
+[OTHER] L 12/12/2025 - 12:30:48: "Spitter<14><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:30:48: FinishClientPutInServer (14): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:30:48: "Spitter<14><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:30:48: "Spitter<14><BOT><Unassigned>" joined team "Infected"
+
+[OTHER] L 12/12/2025 - 12:30:48: Spitter spawned as a SPITTER
+
+[OTHER] L 12/12/2025 - 12:30:48: "Spitter<14><BOT><Infected><SPITTER><ALIVE><100+0><setpos_exact -1082.50 -1112.50 -312.23; setang 0.00 0.00 0.00><Area 52079>" spawned
+
+[DEATH] L 12/12/2025 - 12:30:48: (DEATH)"TouchMe<6><STEAM_1:1:224567397><Survivor><Gambler><ALIVE><94+0><setpos_exact -726.09 54.88 -313.97; setang 8.27 -167.11 0.00><Area 42598>" killed "(1)Hunter<11><BOT><Infected><HUNTER><DEAD><1+0><setpos -903.34 13.38 -375.80; setang 325.77 13.18 0.00><Area 38353>" with "shotgun_chrome"
+
+[TRIGGERED] L 12/12/2025 - 12:30:50: "Ellis<9><BOT><Survivor>" triggered "headshot"
+
+[DEATH] L 12/12/2025 - 12:30:50: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><99+0><setpos_exact -707.90 98.99 -313.97; setang 4.18 253.88 0.00><Area 42598>" killed "infected<316><><Infected><infected><DEAD><12><setpos_exact -744.18 -15.38 -375.97; setang -0.00 76.21 0.00><Area 38485>" with "smg" (headshot)
+
+[DEATH] L 12/12/2025 - 12:30:51: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><99+0><setpos_exact -695.16 95.92 -313.97; setang 2.38 247.52 0.00><Area 42598>" killed "infected<471><><Infected><infected><DEAD><-1><setpos_exact -826.40 -185.52 -377.35; setang 0.00 65.76 0.00><Area 115222>" with "smg"
+
+[DEATH] L 12/12/2025 - 12:30:51: (DEATH)"Rochelle<7><BOT><Survivor><Producer><ALIVE><100+0><setpos_exact -688.03 61.14 -313.97; setang 3.36 184.55 0.00><Area 42598>" killed "infected<580><><Infected><infected><DEAD><-4><setpos_exact -862.89 50.65 -376.39; setang -0.00 87.24 0.00><Area 38353>" with "shotgun_chrome"
+
+[DEATH] L 12/12/2025 - 12:30:52: (DEATH)"Ellis<9><BOT><Survivor><Mechanic><ALIVE><99+0><setpos_exact -695.16 95.92 -313.97; setang 22.92 276.00 0.00><Area 42598>" killed "infected<474><><Infected><infected><DEAD><-8><setpos_exact -688.34 31.14 -375.97; setang 0.00 85.01 0.00><Area 38486>" with "smg"
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "TouchMe<6><UNKNOWN><Survivor>" triggered "weaponstats" (weapon "shotgun_chrome") (shots "2") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "102") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "TouchMe<6><UNKNOWN><Survivor>" triggered "weaponstats_hitgroup" (weapon "shotgun_chrome") (head "0") (chest "0") (stomach "3") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[OTHER] L 12/12/2025 - 12:30:52: "TouchMe<6><STEAM_1:1:224567397><Survivor>" disconnected (reason "Disconnect by user.")
+
+[OTHER] L 12/12/2025 - 12:30:52: "Nick<15><BOT><>" connected, address "none"
+
+[OTHER] L 12/12/2025 - 12:30:52: FinishClientPutInServer (15): looking for bots to take over
+
+[OTHER] L 12/12/2025 - 12:30:52: "Nick<15><BOT><>" entered the game
+
+[OTHER] L 12/12/2025 - 12:30:52: "Nick<15><BOT><Unassigned>" joined team "Survivor"
+
+[OTHER] L 12/12/2025 - 12:30:52: (SKIN) Survivor Nick changed model from  to models/survivors/survivor_gambler.mdl via HandleCommand_JoinTeam
+
+[OTHER] L 12/12/2025 - 12:30:52: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+
+[OTHER] L 12/12/2025 - 12:30:52: (SKIN) SetCharacter: Survivor Nick chose character Gambler(0) from model models/survivors/survivor_gambler.mdl
+
+[OTHER] L 12/12/2025 - 12:30:52: Nick spawned as a Gambler
+
+[OTHER] L 12/12/2025 - 12:30:52: "Nick<15><BOT><Survivor><Gambler><ALIVE><100+0><setpos_exact 786.49 647.32 -419.97; setang 0.00 311.00 0.00><Area 53865>" spawned
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "Rochelle<7><BOT><Survivor>" triggered "weaponstats" (weapon "shotgun_chrome") (shots "5") (hits "11") (kills "0") (headshots "0") (tks "0") (damage "241") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "Rochelle<7><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "shotgun_chrome") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "3") (rightleg "7")
+
+[OTHER] L 12/12/2025 - 12:30:52: "Rochelle<7><BOT><Survivor>" disconnected (reason "Punting bot, server is hibernating")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "Coach<8><BOT><Survivor>" triggered "weaponstats" (weapon "smg") (shots "13") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "108") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "Coach<8><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "smg") (head "1") (chest "1") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+
+[OTHER] L 12/12/2025 - 12:30:52: "Coach<8><BOT><Survivor>" disconnected (reason "Punting bot, server is hibernating")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "Ellis<9><BOT><Survivor>" triggered "weaponstats" (weapon "smg") (shots "27") (hits "9") (kills "0") (headshots "0") (tks "0") (damage "161") (deaths "0")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: "Ellis<9><BOT><Survivor>" triggered "weaponstats_hitgroup" (weapon "smg") (head "2") (chest "1") (stomach "4") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "2")
+
+[OTHER] L 12/12/2025 - 12:30:52: "Ellis<9><BOT><Survivor>" disconnected (reason "Punting bot, server is hibernating")
+
+[OTHER] L 12/12/2025 - 12:30:52: "Spitter<14><BOT><Infected>" disconnected (reason "Punting bot, server is hibernating")
+
+[OTHER] L 12/12/2025 - 12:30:52: "(1)Hunter<11><BOT><Infected>" disconnected (reason "Punting bot, server is hibernating")
+
+[OTHER] L 12/12/2025 - 12:30:52: "Nick<15><BOT><Survivor>" disconnected (reason "Punting bot, server is hibernating")
+
+[OTHER] L 12/12/2025 - 12:30:52: "(1)Smoker<13><BOT><Infected>" disconnected (reason "Punting bot, server is hibernating")
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: World triggered "L4D_Scenario_Restart" (Infected "0") (Survivor "0")
+
+[OTHER] L 12/12/2025 - 12:30:52: Team "Infected" scored "0" with "0" players
+
+[OTHER] L 12/12/2025 - 12:30:52: Team "Survivor" scored "0" with "0" players
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: World triggered "Round_End"
+
+[OTHER] L 12/12/2025 - 12:30:52: Staying on original map c5m1_waterfront
+
+[OTHER] L 12/12/2025 - 12:30:52: CDirector::RunScript, scriptedmode, level: 1
+
+[OTHER] L 12/12/2025 - 12:30:52: CDirector::RunScript, director_base, level: 0
+
+[OTHER] L 12/12/2025 - 12:30:52: Preventing spawning
+
+[OTHER] L 12/12/2025 - 12:30:52: CDirector::RunScript, scriptedmode, level: 1
+
+[OTHER] L 12/12/2025 - 12:30:52: CDirector::RunScript, director_base, level: 0
+
+[TRIGGERED] L 12/12/2025 - 12:30:52: World triggered "Round_Start"
